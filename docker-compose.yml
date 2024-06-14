@@ -1,6 +1,6 @@
 version : "3.7"
 services : 
   web : 
-    image : devops-practice
+    image : shanecoelho/devops-practice:latest
     ports : 
       - "3000:3000"
