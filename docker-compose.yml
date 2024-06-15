@@ -3,4 +3,4 @@ services :
   web : 
     image : shanecoelho/devops-practice:latest
     ports : 
-      - "3000:3000"
+      - "8000:8000"
